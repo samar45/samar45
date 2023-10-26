@@ -12,7 +12,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarmohanty&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samar45&show_icons=true&theme=radical)
 
 ### 🚀 My Projects
 - [ WC 2023 Score Predictor ](https://github.com/samar45/ODI-WC-score-predictor)
